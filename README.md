@@ -74,12 +74,6 @@ Passionate about building intelligent AI solutions, data-driven applications, an
 <img src="https://streak-stats.demolab.com?user=kartikbhardwaj2006&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kartikbhardwaj2006&theme=tokyonight&no-frame=true"/>
-</p>
-
 ## 💻 LeetCode
 
 <p align="center">
