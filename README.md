@@ -61,13 +61,6 @@ Passionate about building intelligent AI solutions, data-driven applications, an
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,react,nextjs,angular,nodejs,express,mongodb,mysql,firebase,flask,django,fastapi,git,github,docker,vscode,tailwind,bootstrap,vercel,netlify,tensorflow" />
 </p>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartikbhardwaj2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhardwaj2006&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
